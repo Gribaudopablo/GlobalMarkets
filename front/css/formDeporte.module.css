@@ -1,0 +1,20 @@
+.form {
+    margin: 0 auto;
+    width: 300px;
+    background-color: bisque;
+    padding: 5px;
+    border-radius: 5px;
+}
+.input, textarea{
+    border: 0;
+    outline: none;
+}
+.field {
+    border: solid 1px  bisque;
+}
+.field:focus {
+    border-color: aqua;
+}
+
+
+ 
